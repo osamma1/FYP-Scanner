@@ -30,8 +30,9 @@ const Landing = ({ scanError, setRepoURL }) => {
 				<div className="title-tagline">
 					<h1 className="gradient-text">Upload. Scan. Analyze.</h1>
 					<h2 className="tagline">
-						A static code analysis toolkit to scan vulnerabilities
-						blazing fast.
+						Unlock robust web security with our AI-powered scanner,
+						identifying and prioritizing vulnerabilities for swift remediation and protection.
+			
 					</h2>
 				</div>
 

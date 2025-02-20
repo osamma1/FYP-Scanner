@@ -10,9 +10,7 @@ function Navbar() {
 				<li>
 					<a href="/">Features</a>
 				</li>
-				<li>
-					<a href="/pricing">Pricing</a>
-				</li>
+				
 				<li>
 					<a href="/">Contact</a>
 				</li>
