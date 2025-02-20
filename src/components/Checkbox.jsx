@@ -21,7 +21,7 @@ function Checkbox() {
 				checkedIcon={false}
 			/>
 			<label htmlFor="deepScanToggle" className="text-lg text-gray-800">
-				Deep Scan
+				AI Deep Scan
 			</label>
 		</div>
 	);

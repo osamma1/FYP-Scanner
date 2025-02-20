@@ -5,7 +5,7 @@ import logo from "./../../assets/logo.svg";
 function Navbar() {
 	return (
 		<nav>
-			<img src={logo} alt="ScanRE logo " className="logo" />
+			<img src={logo} alt="VulnScan AI logo " className="logo" />
 			<ul>
 				<li>
 					<a href="/">Features</a>
